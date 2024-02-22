@@ -8,7 +8,7 @@ File(s) included:
   
 - FlightPlans.txt
   -First line: Integer specifying number of rows.
-      - Subsequent rows contain city pairs, followed by whether to sort flights by cost (C) or time (T)
+   - Subsequent rows contain city pairs, followed by whether to sort flights by cost (C) or time (T)
   
 - FlightPlansOutput.txt
   - Optional output file containing the three most efficient flights based on time or cost
