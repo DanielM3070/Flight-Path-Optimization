@@ -1,0 +1,12 @@
+11
+Austin|Detroit|350|250
+Austin|Billings|400|300
+Billings|El Paso|450|350
+El Paso|Greensboro|500|400
+Greensboro|Fresno|600|450
+Detroit|Fresno|700|500
+Fresno|Chicago|450|350
+Chicago|Detroit|250|200
+Detroit|El Paso|650|500
+Chicago|Greensboro|350|250
+Billings|Detroit|350|250
